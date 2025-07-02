@@ -14,7 +14,8 @@ export default function MovieList() {
   return (
     <div className="container mt-5">
       <div className="text-center mb-4">
-        <h2 className="fw-bold text-dark">Popular Show</h2>
+        <h2 className="fw-bold text-dark">Popular Shows
+        </h2>
         <p className="text-muted">Select a movie FOR FUrther Details</p>
       </div>
 
